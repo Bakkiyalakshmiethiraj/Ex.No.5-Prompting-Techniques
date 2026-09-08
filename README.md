@@ -1,6 +1,6 @@
 # EXP-5: Comparing Prompting Techniques Through Engineering Problem-Solving Scenarios
 
-**Name:** Bakkiyyalakshmi E
+**Name:** Bakkiyalakshmi E
 
 **Reg No:** 212223220012
 
